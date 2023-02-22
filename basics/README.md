@@ -1,1 +1,0 @@
-info shell basic

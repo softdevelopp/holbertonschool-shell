@@ -1,1 +1,1 @@
-FILE CONTENT INFO SHELL BASIC
+info shell basic

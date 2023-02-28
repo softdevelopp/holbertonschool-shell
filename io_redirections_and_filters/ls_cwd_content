@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 softdevelopp softdevelopp 4096 feb 27 22:39 .
+drwxr-xr-x 6 softdevelopp softdevelopp 4096 feb 27 13:45 ..
+-rwxr--r-- 1 softdevelopp softdevelopp   32 feb 27 13:56 0-hello_world
+-rwxr--r-- 1 softdevelopp softdevelopp   28 feb 27 14:13 1-confused_smiley
+-rwxr--r-- 1 softdevelopp softdevelopp   28 feb 27 15:15 2-hellofile
+-rwxr--r-- 1 softdevelopp softdevelopp   39 feb 27 15:18 3-twofiles
+-rwxr--r-- 1 softdevelopp softdevelopp   29 feb 27 15:41 4-lastlines
+-rwxr--r-- 1 softdevelopp softdevelopp   29 feb 27 15:43 5-firstlines
+-rwxr--r-- 1 softdevelopp softdevelopp   40 feb 27 21:14 6-third_line
+-rwxr--r-- 1 softdevelopp softdevelopp   79 feb 27 22:34 7-file
+-rwxr--r-- 1 softdevelopp softdevelopp   36 feb 27 22:39 8-cwd_state
+-rwxr--r-- 1 softdevelopp softdevelopp   41 feb 27 22:37 8-cwd_state~
+-rw-r--r-- 1 softdevelopp softdevelopp    0 feb 27 22:39 ls_cwd_content
+-rw-r--r-- 1 softdevelopp softdevelopp   42 feb 27 13:46 README.md

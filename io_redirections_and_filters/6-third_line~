@@ -1,0 +1,2 @@
+#!/bin/bash
+head iata | tail -3
